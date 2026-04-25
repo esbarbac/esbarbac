@@ -1,6 +1,6 @@
-# Hi, I'm Sebastian
+# Greetings, web wanderer
 
-### I'm Sebastian — I like working on hard problems with high impact. 
+### I'm Sebastian, I like working on hard problems with high impact!
 I'm a Generalist, currently a **Full Stack Data Scientist** and **AI Engineer** specializing in building intelligent systems that scale. My core strengths lie in **Python, SQL, JavaScript, and Streamlit**. 
 
 I have extensive experience architecting solutions on **Azure** (Azure AI Foundry & OpenAI), but I've also navigated projects across **AWS** and **GCP** environments.
